@@ -232,6 +232,9 @@ To-Be: 종이·벽·손바닥 등 어떤 표면이든 정보를 투영할 수 �
 
 여가와 업무의 분리: 중앙의 본체 인물은 호버보드를 타며 여가 활동을 즐기고 있는 반면, 오른쪽 상단 투명 공간에는 그와 똑같이 생긴 '디지털 자아 분신'이 업무 회의에 참석하고 있습니다. 이는 '자신은 여가활동을 즐기고 분신은 일을 하러 가는' 구상을 직접적으로 구현한 것입니다.
 
+**수업 4(5주차)**
+
+https://kookmin-my.sharepoint.com/:p:/r/personal/dldpwns5226_kookmin_kr/_layouts/15/Doc.aspx?sourcedoc=%7BDB6D3E27-CDF6-4EEF-985B-D8EF03153E41%7D&file=%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&ct=1760684305080&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&cid=8ca6776d-dff6-4d09-8031-6570d5bdc44f&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=6961cdb2-e429-464c-85e0-4efb6aea8e8a
 
 
 
